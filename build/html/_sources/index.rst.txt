@@ -10,10 +10,11 @@ This project is under active development
 .. toctree::
    :maxdepth: 2
 
-  module1.rst
-  module2.rst
-  module3.rst
-  module4.rst
+  overview
+  module1
+  module2
+  module3
+  module4
 
 
    Add your content using ``reStructuredText`` syntax. See the
