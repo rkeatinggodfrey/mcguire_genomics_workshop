@@ -9,12 +9,11 @@ This project is under active development
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
-   Module 1: Introduction to Genomics
-   Module 2: Genome Assembly
-   Module 3: Genome Evaluation
-   Module 4: Genome Annotation
+  1. module1.rst
+  2. module2.rst
+  3. module3.rst
+  4. module4.rst
 
 
    Add your content using ``reStructuredText`` syntax. See the
