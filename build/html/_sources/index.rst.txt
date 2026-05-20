@@ -14,6 +14,7 @@ This intensive, hands-on workshop introduces participants to core concepts and t
 Workshop objectives
 -------------------
 By the end of this course, students will be able to:
+
 1. Define and explain key genome assembly- and sequencing-related concepts using appropriate scientific vocabulary.
 2. Navigate and utilize the UNIX command-line environment for genome data analysis.
 3. Retrieve datasets from NCBI and perform initial quality control and preprocessing.
@@ -33,8 +34,7 @@ By the end of this course, students will be able to:
    module3
    module4
 
-
-   Add your content using ``reStructuredText`` syntax. See the
+Add your content using ``reStructuredText`` syntax. See the
 `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
 documentation for details.
 
