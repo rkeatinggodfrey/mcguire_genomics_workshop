@@ -10,6 +10,7 @@ This project is under active development
 .. toctree::
    :maxdepth: 2
 
+  overview
   module1
   module2
   module3
