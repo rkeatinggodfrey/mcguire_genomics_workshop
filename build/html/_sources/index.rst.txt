@@ -26,6 +26,9 @@ By the end of this course, students will be able to:
 9. Apply the concepts learned in class to different scenarios.
 10. Critically evaluate the use of genomic datasets to apply different concepts and analyses.
 
+Workshop modules
+----------------
+
 .. toctree::
    :maxdepth: 2
    
