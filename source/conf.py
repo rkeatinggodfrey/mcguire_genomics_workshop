@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'McGuireGenomicsWorkshop'
+project = 'McGuire Genomics Workshop'
 copyright = '2026, Copyright 2026, Ivone de Bem Oliveira, Bert Foquet, R Keating Godfrey, Taylor Pierson'
-author = 'rkeatinggodfrey'
+author = 'Ivone de Bem Oliveira, Bert Foquet, R Keating Godfrey, Taylor Pierson'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
