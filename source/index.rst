@@ -3,21 +3,21 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-McGuire Genomics Workshop documentation
-=======================================
+McGuire Genomics Workshop 
+=========================
 This project is under active development
-
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
-
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
    Module 1: Introduction to Genomics
-   Module 2: Assembly
-   Module 3: 
-   Module 4:
+   Module 2: Genome Assembly
+   Module 3: Genome Evaluation
+   Module 4: Genome Annotation
+
+
+   Add your content using ``reStructuredText`` syntax. See the
+`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
+documentation for details.
 
