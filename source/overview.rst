@@ -5,8 +5,7 @@ This intensive, hands-on workshop introduces participants to core concepts and t
 Workshop objectives
 -------------------
 By the end of this course, students will be able to:
-1. Define and explain key genome assembly- and sequencing-related concepts using appropriate
-scientific vocabulary.
+1. Define and explain key genome assembly- and sequencing-related concepts using appropriate scientific vocabulary.
 2. Navigate and utilize the UNIX command-line environment for genome data analysis.
 3. Retrieve datasets from NCBI and perform initial quality control and preprocessing.
 4. Assemble genomes and assess assembly quality with multiple tools.
