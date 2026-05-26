@@ -15,7 +15,6 @@ date;hostname;pwd
 # This script uses Hifiasm to create a genome assembly from Pac-Bio reads
 
 # To run, use: sbatch [scriptname.sh] output prefix reads
-
 # Example:
 # 1_hifiasm.sh /path/to/output/folder Genus_species.asm /path/to/your.fastq.gz
 
@@ -30,7 +29,6 @@ module load ufrc
 module load hifiasm/0.25.0
 
 hifiasm -o ${output} ${prefix} -l 3 -t 40 ${reads}
-
 
 
 # for information about phased and primary assembly options see
