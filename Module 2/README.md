@@ -1,3 +1,3 @@
-# Module 1: Genome Assembly
+# Module 2: Genome Assembly
 
-###
+##
