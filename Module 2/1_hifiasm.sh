@@ -27,7 +27,7 @@ reads=${2}				# path to reads in fastq.gz format
 module load ufrc
 module load hifiasm/0.25.0
 
-hifiasm -o ${output} ${prefix} -l 3 -t 16 ${reads}
+hifiasm -o ${output} -l 3 -t 16 ${reads}
 
 
 # for information about phased and primary assembly options see
