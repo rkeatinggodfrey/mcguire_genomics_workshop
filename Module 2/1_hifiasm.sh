@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --job-name=hifiasm		            # job name
 #SBATCH --mail-type=END,FAIL		          # mail events (NONE, BEGIN, END, FAIL, ALL)
-#SBATCH --mail-user=yournamey@ufl.edu	    # where to send mail	
+#SBATCH --mail-user=yourname@ufl.edu	    # where to send mail	
 #SBATCH --ntasks=1			                  # run a single task
 #SBATCH --cpus-per-task=16		            # number of CPU cores per task in gigabites
 #SBATCH --mem-per-cpu=8gb		              # max memory allocated to each cpu
